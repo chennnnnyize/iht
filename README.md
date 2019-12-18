@@ -16,11 +16,14 @@ Description
    
    
  References
+ 
    [1]  T. Blumensath and M.E. Davies, "Iterative Thresholding for Sparse 
         Approximations", submitted, 2007
+        
    [2]  T. Blumensath and M. Davies; "Iterative Hard Thresholding for 
         Compressed Sensing" to appear Applied and Computational Harmonic 
         Analysis 
+        
    [3]  T. Blumensath and M. Davies; "A modified Iterative Hard 
         Thresholding algorithm with guaranteed performance and stability" 
         in preparation (title may change) 
