@@ -4,6 +4,8 @@ Iterative Hard Thresolding
 This is a translation to Python of the iterative hard thresholding algorithm of
 Blumensath & Davies.
 
+Try to find a quick way to solve L1 minimization problem with sparsity.
+
 Description
 
    Implements the M-sparse algorithm described in [1], [2] and [3].
